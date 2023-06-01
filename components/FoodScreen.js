@@ -3,7 +3,8 @@ import { View, Text, FlatList, TextInput } from "react-native";
 import Item from "./Item";
 import du_lieu from "../database/data/data.firebase.js";
 
-export default function ListScreen() {
+export default function FoodScreen() {
+
   const [error, setError] = useState([]);
 
   const [fullData, setFullData] = useState([]);
@@ -13,7 +14,7 @@ export default function ListScreen() {
   useEffect(() => {
     setFullData(du_lieu);
     setSearchData(du_lieu);
-  }, []);
+  },[]);
 
   const handeSearch = (text) => {
     if (text) {
@@ -24,7 +25,7 @@ export default function ListScreen() {
       });
       setSearchData(newData);
       setsearchQuery(text);
-      console.log(searchData.length);
+      console.log(searchData.length)
     } else {
       setSearchData(fullData);
       setsearchQuery(text);
@@ -45,7 +46,7 @@ export default function ListScreen() {
         }}
       >
         <TextInput
-          placeholder="Bạn muốn đi đâu"
+          placeholder="Bạn muốn ăn gì"
           value={searchQuery}
           onChangeText={(text) => handeSearch(text)}
           clearButtonMode="always"
@@ -66,7 +67,7 @@ export default function ListScreen() {
           marginBottom: 5,
         }}
       >
-        Danh sách địa điểm
+        Món ngon Đà thành
       </Text>
       <FlatList
         showsVerticalScrollIndicator={false}
@@ -74,6 +75,7 @@ export default function ListScreen() {
         renderItem={({ item }) => <Item data={item} />}
         keyExtractor={(item) => item.id}
       />
+
     </View>
   );
 }
