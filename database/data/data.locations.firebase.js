@@ -13,9 +13,9 @@ export default du_lieu = [
     thoiGian:
       "Không giới hạn thời gian (tuy nhiên, các khu vực cụ thể trên Bán đảo Sơn Trà có thể có thời gian hoạt động khác nhau).",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Son_Tra_1.jpeg?alt=media&token=bdcc3afa-0a5f-43dc-ac8b-502b1b3398de",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Son_Tra_2.jpeg?alt=media&token=ed03f7c9-700b-41a3-b704-525927e50594",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Son_Tra_3.jpeg?alt=media&token=786423c5-07ff-4fed-9d29-51bdb493d037",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSon_Tra_1.jpeg?alt=media&token=265dc09c-cadf-4092-825a-23b6c6f3d0bb",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSon_Tra_2.jpeg?alt=media&token=3ab60f8c-7b17-4202-a399-4bfa4afb05a7",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSon_Tra_3.jpeg?alt=media&token=7c42a94f-cacc-447f-91bd-379067d58d2c",
     ],
   },
   {
@@ -32,9 +32,9 @@ export default du_lieu = [
     thoiGian:
       "Mở cửa từ 7:00 đến 22:00 hàng ngày (thời gian có thể thay đổi tùy vào mùa du lịch).",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_Vang_1.png?alt=media&token=d541e541-cd27-4428-823b-f369dbf10487",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_Vang_2.jpeg?alt=media&token=33c546b5-acd5-4641-ad36-f8255774bff2",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_Vang_3.jpeg?alt=media&token=0d54be77-f81d-44c1-9003-abfbcb5a29a1",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_Vang_1.png?alt=media&token=e94560d8-02db-4f2c-b5bd-d395088b4f90",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_Vang_2.jpeg?alt=media&token=cb7dab0f-b60e-4852-afd1-9edde7daf111",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_Vang_3.jpeg?alt=media&token=0eb204ac-958a-4ab0-acd0-3126e4c0f669",
     ],
   },
   {
@@ -51,9 +51,9 @@ export default du_lieu = [
       "Tham quan các khu vườn trái cây, cây ăn trái và nhà kính, tham gia các hoạt động như bắt cá, câu cá, leo núi, tắm suối và nghỉ dưỡng tại khu nghỉ dưỡng xanh mát",
     thoiGian: "Mở cửa từ 7:00 đến 17:00 hàng ngày",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Hoa_Phu_Thanh_1.jpeg?alt=media&token=f6442d03-ed8b-46ac-b3c6-fc638ad10c58",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Hoa_Phu_Thanh_2.jpeg?alt=media&token=45fe13a8-394e-442f-a1ea-27d863abf8d0",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Hoa_Phu_Thanh_3.jpeg?alt=media&token=9591a612-d77d-46ac-b29d-360179f7a434",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FHoa_Phu_Thanh_1.jpeg?alt=media&token=6e07929d-66dc-4fc3-b79c-7b30e89ef743",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FHoa_Phu_Thanh_2.jpeg?alt=media&token=67eefaa9-411d-4b85-bdc0-396fe114c7c7.",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FHoa_Phu_Thanh_3.jpeg?alt=media&token=a100c6e3-a549-4476-9663-423d128fe5e2",
     ],
   },
   {
@@ -71,9 +71,9 @@ export default du_lieu = [
     thoiGian:
       "Bãi biển Non Nước hoạt động suốt cả ngày, từ sáng sớm đến tối muộn. Bãi biển Non Nước hoạt động suốt cả ngày, từ sáng sớm đến tối muộn. ",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Non_Nuoc_1.jpeg?alt=media&token=12678faa-cd7f-4cf2-85cd-88abe4fdbb4f",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Non_Nuoc_2.jpeg?alt=media&token=15a990c0-8b9b-4843-8c85-083ae8060fa2",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Non_Nuoc_3.jpeg?alt=media&token=60cec91a-4b4e-4793-9d85-19f5ab947f9a",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FNon_Nuoc_1.jpeg?alt=media&token=39377a24-6157-44ae-a333-0863007187bd",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FNon_Nuoc_2.jpeg?alt=media&token=e9b33a6c-7adc-4fcc-9323-8d1bc55656f4",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FNon_Nuoc_3.jpeg?alt=media&token=e70a8825-1c11-41b1-8c5c-9295703b168b",
     ],
   },
   {
@@ -89,9 +89,9 @@ export default du_lieu = [
       "Chợ Hàn là nơi để trải nghiệm văn hóa địa phương và mua sắm đặc sản. Bạn có thể tìm thấy các sản phẩm thủ công mỹ nghệ, quần áo, giày dép, túi xách, trang sức, đồ lưu niệm và nhiều mặt hàng khác. Chợ Hàn cũng có nhiều quán ăn và đồ uống địa phương để bạn thưởng thức.",
     thoiGian: "Hoạt động từ khoảng 8:00 sáng đến khoảng 10:00 tối hàng ngày",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cho_Han_1.jpeg?alt=media&token=7b3edd69-2d06-4d5a-a8b4-7b6b4f428ab6",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cho_Han_2.jpeg?alt=media&token=16b5fdec-dc7c-40ae-81c4-373bb49abc44",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cho_Han_3.jpeg?alt=media&token=a943e46a-bf7c-4362-accb-c14d450e96a3",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCho_Han_1.jpeg?alt=media&token=a107c814-68db-4dd0-a545-d8e0fc364bba",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCho_Han_2.jpeg?alt=media&token=f438bc5e-b217-4e6f-9e86-fb03cff2e32f",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCho_Han_3.jpeg?alt=media&token=67bb5da1-2879-4dee-96bf-884304508e71",
     ],
   },
   {
@@ -108,9 +108,9 @@ export default du_lieu = [
       "Công viên văn hóa Đầm Sen Đà Nẵng là một khu vực giải trí và vui chơi có nhiều hoạt động như đi trượt nước, bơi lội, tắm nắng và tham gia các trò chơi giải trí. Ngoài ra, bạn có thể tìm thấy các quầy hàng ăn uống và các gian hàng bán đồ lưu niệm.",
     thoiGian: "Mở cửa từ 8:00 đến 17:00 hàng ngày",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Dam_Sen_1.jpeg?alt=media&token=48b0e4c4-4010-4fe6-add1-4c8fe8a186b0",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Dam_Sen_2.jpeg?alt=media&token=8ab2c9b9-6963-4ad8-9ab9-49c9dc2c8b5d",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Dam_Sen_3.jpeg?alt=media&token=37df6517-ec1d-47ff-88fa-770188b66eec",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDam_Sen_1.jpeg?alt=media&token=062d2221-7b20-452b-98e5-937b7ad68190",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDam_Sen_2.jpeg?alt=media&token=d929632b-5d41-4236-a496-c8603137dc50",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDam_Sen_3.jpeg?alt=media&token=e54bc8a8-85b1-46f4-a286-e23883ef3766",
     ],
   },
   {
@@ -145,9 +145,9 @@ export default du_lieu = [
     thoiGian:
       "Từ sáng sớm cho đến tối muộn, cho phép du khách tham quan và tận hưởng không gian biển trong suốt ngày",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cong_vien_Dong_Duong_1.jpeg?alt=media&token=8a1b1ebd-5abe-404a-a36b-c51fd0ad0028",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cong_vien_Dong_Duong_2.jpeg?alt=media&token=5c7dbe5e-ec9a-49d7-bd86-d481c56f7d00",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cong_vien_Dong_Duong_3.jpeg?alt=media&token=b028f474-aa8c-4f7a-b00f-7349a477f02d",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCong_vien_Dong_Duong_1.jpeg?alt=media&token=7bca78ea-ca04-4aef-8afd-2ad3e6ba3bfb",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCong_vien_Dong_Duong_2.jpeg?alt=media&token=7f70d6a9-b5d3-4fa6-bb52-715635d332a4",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCong_vien_Dong_Duong_3.jpeg?alt=media&token=ac825a1d-c7b9-4c1d-a016-2e206b4230cd",
     ],
   },
   {
@@ -164,9 +164,9 @@ export default du_lieu = [
     thoiGian:
       "Mở cửa từ 7:30 đến 17:00 hàng ngày, ngoại trừ các ngày lễ và chủ nhật.",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Bao_Tang_1.jpeg?alt=media&token=2bd49f7c-55a6-47a0-9e43-a6d7fda8c492",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Bao_Tang_2.jpeg?alt=media&token=c10bd6dd-2f92-44dd-b9fe-c47141387a0e",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Bao_Tang_3.jpeg?alt=media&token=3310cd7c-e931-470b-ac77-7c0eae80c739",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBao_Tang_1.jpeg?alt=media&token=da7e9aea-7ce9-4e24-a82d-8f4067d6abcb",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBao_Tang_2.jpeg?alt=media&token=1e69af33-dce6-4a27-bcb1-80e53567100f",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBao_Tang_3.jpeg?alt=media&token=a217623c-3817-4d90-a955-88393026274e",
     ],
   },
   {
@@ -182,9 +182,9 @@ export default du_lieu = [
     thoiGian:
       "Mở cửa từ 6:00 đến 20:00 hàng ngày (thời gian có thể thay đổi tùy vào mùa du lịch)",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Chua_mot_cot_1.jpeg?alt=media&token=a62e4942-ba4e-45b5-8f0e-681b4e20b0d6",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Chua_mot_cot_2.jpeg?alt=media&token=6cf1e20a-63f5-4e77-b1b9-99c862282f4b",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Chua_mot_cot_3.jpeg?alt=media&token=62ad3b55-5c97-4f95-8515-30c70dbee6db",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FChua_mot_cot_1.jpeg?alt=media&token=7c3797ac-1902-40c2-b16c-111349c78d87",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FChua_mot_cot_2.jpeg?alt=media&token=093141ba-ab6e-4ff5-8bed-040a98b4bec6",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FChua_mot_cot_3.jpeg?alt=media&token=ff8fbd47-407d-4cd9-85a1-0f3a58382b2b",
     ],
   },
   {
@@ -199,9 +199,9 @@ export default du_lieu = [
       "Cầu Rồng là cây cầu có kiến trúc độc đáo nhất Việt Nam, là con đường ngắn nhất nối sân bay quốc tế Đà Nẵng với những đường trục chính trong thành phố. Không chỉ đóng vai trò là đường giao thông huyết mạch của thành phố, cầu Rồng, với kiến trúc mô phỏng con rồng thời Lý đang vươn mình bay ra biển, là một trong những kiến trúc mang tính biểu tượng của thành phố Đà Nẵng.",
     thoiGian: "Không giới hạn thời gian",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_Rong_2.jpeg?alt=media&token=959d8122-0e68-4668-8a13-01ebac338c65",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_Rong_3.jpeg?alt=media&token=59e4bc0d-8310-4020-bb68-05f47383034f",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_Rong_1.jpeg?alt=media&token=22bf9c94-793a-49af-97bb-5e87be0f8145",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_Rong_1.jpeg?alt=media&token=98c6bb78-25b3-427a-b04f-75d88e4e533d",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_Rong_2.jpeg?alt=media&token=f68ea291-9596-4b2b-9bef-95f42f3b0a52",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_Rong_3.jpeg?alt=media&token=d2c361e5-6bd8-4e2b-8f11-08b20dab47c8",
     ],
   },
   {
@@ -217,9 +217,9 @@ export default du_lieu = [
       "Ngọn núi to nhất và nhiều cảnh đẹp đáng để tham quan nhất ở Đà Nẵng này thì sẽ vô cùng hối tiếc. Đây là điểm đến mang đậm nét tâm linh, văn hóa và lịch sử. Với địa hình đặc trưng là núi, nên bốn bề của Ngũ Hành Sơn là những cảnh vật hùng vĩ với 6 ngọn núi đồ sộ và các công trình kiến trúc tâm linh ấn tượng. Sau đây là những điểm tham quan đặc biệt nhất Ngũ Hành Sơn mà bạn nên ghé thăm",
     thoiGian: "Từ 7h đến 22h",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Ngu_Hanh_Son_1.png?alt=media&token=a363a782-9b39-48fd-b67f-e6e94c5144bd",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Ngu_Hanh_Son_2.png?alt=media&token=755ccf46-6ddd-4406-81c9-bf4520493c6d",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Ngu_Hanh_Son_3.jpeg?alt=media&token=8750e93d-e7ab-48d1-8dfe-2c825ecfa592",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FNgu_Hanh_Son_1.png?alt=media&token=9be0591a-7140-403a-921d-9b1d61b25443",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FNgu_Hanh_Son_2.png?alt=media&token=c04d2004-8482-4387-a72f-2fb8439b29cf",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FNgu_Hanh_Son_3.jpeg?alt=media&token=cda4b663-85a2-4a64-810a-762dfa4a5608",
     ],
   },
   {
@@ -235,9 +235,9 @@ export default du_lieu = [
       "Đèo Hải Vân là một trong những cung đường đèo ven biển đẹp nhất thế giới, là kiệt tác của tạo hoá ban tặng cho Việt Nam. Hình ảnh những cung đường hiểm trở nhưng lại rất xinh đẹp với núi non hùng vĩ, với những tầng mây lững lờ nơi đỉnh núi khiến du khách bất giác mà nhớ đến nhịp điệu bài hát “Tàu anh qua núi”, vẻ đẹp đã đi vào những làn điệu âm nhạc không thể nào quên.",
     thoiGian: "Không giới hạn thời gian",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Deo_Hai_Van_1.jpeg?alt=media&token=d260e6cc-5271-4159-8ba3-b5174205c7c7",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Deo_Hai_Van_2.jpeg?alt=media&token=cb8f7ffb-99dd-4eb2-b2cc-7f9487078af9",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Deo_Hai_Van_3.jpeg?alt=media&token=eeadbf89-3526-4d3f-85b2-bf736de68c63",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDeo_Hai_Van_1.jpeg?alt=media&token=16807efb-d2ec-4d1a-8b8d-6db90c3358ba",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDeo_Hai_Van_2.jpeg?alt=media&token=238a0946-9f7e-4ded-8aba-38d160b051bb",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDeo_Hai_Van_3.jpeg?alt=media&token=cc2e4109-0d4a-49ae-8752-1bb5c2edb452",
     ],
   },
   {
@@ -252,9 +252,9 @@ export default du_lieu = [
       "Suối Mơ Hòa Bắc Đà Nẵng là địa điểm du lịch thiên nhiên, vì vậy, bạn có thể đến đây vào bất kỳ thời điểm nào, mỗi mùa, khung cảnh tại đây đều mang một nét đẹp riêng. Tuy nhiên, theo nhiều “tín đồ” phượt suối Mơ Đà Nẵng thì thời điểm lý tưởng nhất sẽ vào khoảng từ tháng 3 – tháng 8, lúc này, tiết trời mát mẻ, dễ chịu sẽ rất thuận tiện cho các hoạt động ngoài trời.",
     thoiGian: "Không giới hạn thời gian",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Suoi_Mo_3.jpeg?alt=media&token=109d2376-e86b-4793-b1b7-9d704f78e73c",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Suoi_Mo_2.jpeg?alt=media&token=1b8311fc-97a2-4b93-b272-576d1b1f0ade",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Suoi_Mo_1.jpeg?alt=media&token=5ce5a00c-e8ea-442e-aec3-8563a33cd259",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSuoi_Mo_1.jpeg?alt=media&token=765c3b81-d7a8-420b-9530-d6e6bd2e2c73",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSuoi_Mo_2.jpeg?alt=media&token=dc631d4d-1d88-452a-9ff3-13c5f3254472",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSuoi_Mo_3.jpeg?alt=media&token=c0cfded0-ceeb-47ff-a49b-21bcae0d91ad",
     ],
   },
   {
@@ -269,9 +269,9 @@ export default du_lieu = [
       "Đỉnh Bàn Cờ là địa điểm du lịch Đà Nẵng thú vị dành cho các bạn trẻ. Sở dĩ nơi đây có tên như vậy là bởi người dân dựa theo truyền thuyết về hai vị tiên giỏi chơi cờ của nhà trời “đấu đá” mà đã đặt một bức tượng Đế Thích đánh cờ ngồi một mình bên bàn cờ tiên chưa tìm ra lời giải. Và kể từ đó về sau, ngọn núi này được mang tên gọi như vậy cho tới tận bây giờ.",
     thoiGian: "Không giới hạn thời gian",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Dinh_ban_Co_1.jpeg?alt=media&token=76332473-c9aa-4b55-883e-66f25a66daff",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Dinh_ban_Co_2.jpeg?alt=media&token=80fb2e2d-1269-4d55-a2ed-0a7c7168c0d5",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Dinh_ban_Co_3.jpeg?alt=media&token=a4003219-2609-448f-91d9-5f71cbed3459",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDinh_ban_Co_1.jpeg?alt=media&token=6fb22bae-708d-4a9c-b7e9-80899b0a9e6f",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDinh_ban_Co_2.jpeg?alt=media&token=82efde51-f182-42ea-9ced-c4631ade44f8",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FDinh_ban_Co_3.jpeg?alt=media&token=dc20c9f1-7471-47fe-a472-04acce6201df",
     ],
   },
   {
@@ -286,9 +286,9 @@ export default du_lieu = [
       "Với đường bờ biển dài, đẹp như tranh, nơi đây thu hút du khách đến tham quan, tìm hiểu, trải nghiệm hoạt động làm mắm của người dân. Ngoài ra, những món ngon nơi đây như nước mắm, gỏi cá trích, cháo chờ cũng khiến nhiều du khách say mê. ",
     thoiGian: "Không giới hạn thời gian",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Lang_Nam_O_1.jpeg?alt=media&token=c66855a4-66f2-40e8-964e-9e6f9fcafd6a",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Lang_Nam_O_2.jpeg?alt=media&token=14d3ddc4-3512-4900-8d22-02a9d5e437ae",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Lang_Nam_O_3.jpeg?alt=media&token=4847496d-266f-4d0d-86f9-8f56c5b74e25",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FLang_Nam_O_1.jpeg?alt=media&token=c71240e5-5721-4bea-a293-136a80b72c7b",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FLang_Nam_O_2.jpeg?alt=media&token=c222514c-f422-4d5c-941f-91ca60682a48",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FLang_Nam_O_3.jpeg?alt=media&token=0f8ba516-b748-4c27-ba51-a5a7a926a7fc",
     ],
   },
   {
@@ -303,9 +303,9 @@ export default du_lieu = [
       "Rừng dừa Bảy Mẫu là điểm chụp ảnh Đà Nẵng - Hội An hấp dẫn. Nơi đây dành cho những ai yêu thích cảnh sông nước miền Tây. Ngồi trên những chiếc thuyền thúng quen thuộc của người miền Trung để tham quan rừng dừa, len lỏi vào từng gốc dừa, giăng lưới đánh cá, đua thúng..., là những hoạt động vô cùng thú vị. ",
     thoiGian: "Không giới hạn thời gian",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Rung_dua_Bay_Mau_1.jpeg?alt=media&token=1f4e4f4b-3cf7-4eae-b664-0fb3afcad993",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Rung_dua_Bay_Mau_2.jpeg?alt=media&token=9f740207-0c63-4b4f-8db3-08a52672f7ea",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Rung_dua_Bay_Mau_3.jpeg?alt=media&token=45f8899e-4627-4922-b1d8-41561ded76f2",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FRung_dua_Bay_Mau_1.jpeg?alt=media&token=a6f9b0a1-a33b-41f1-a55d-a7ce2d19699b",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FRung_dua_Bay_Mau_2.jpeg?alt=media&token=444982f6-35d2-452b-bcb9-d82eab16b757",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FRung_dua_Bay_Mau_3.jpeg?alt=media&token=8af25ccd-40a0-439c-8fd6-766afb481433",
     ],
   },
   {
@@ -322,9 +322,9 @@ export default du_lieu = [
     thoiGian:
       "Sự kiện đặc biệt “Cầu quay” này diễn ra vào lúc 1:00 – 2:00 giờ sáng (thứ 2 – thứ 6) và 23:00 – 24:00 giờ (thứ 7 và chủ nhật). ",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_song_Han_1.jpeg?alt=media&token=431e35f4-d471-4c1f-b667-b11e0d05cef8",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_song_Han_2.jpeg?alt=media&token=773cbe4f-963d-4eb4-bebd-1f0f97a19b51",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Cau_song_Han_3.jpeg?alt=media&token=2a9aad80-2aec-47a4-828d-6da8ed8da85a",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_song_Han_1.jpeg?alt=media&token=5f57c806-d9f7-4cfe-b2b3-ae95762d8a6f",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_song_Han_2.jpeg?alt=media&token=ab0670cd-3bf8-40cf-b0a6-37c1b33e1659",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FCau_song_Han_3.jpeg?alt=media&token=73501602-c555-453b-aae9-8cacf5954a42",
     ],
   },
   {
@@ -341,9 +341,9 @@ export default du_lieu = [
       "Du lịch Bà Nà Hills, bạn sẽ được lạc vào xứ sở thần tiên như trong câu chuyện cổ tích khi ghé thăm ngôi làng Pháp – một địa điểm du lịch Đà Nẵng nổi tiếng được mô phỏng theo kiến trúc của Pháp. Đến đây bạn có thể trải nghiệm hệ thống cáp treo đạt nhiều kỷ lục thể giới, thăm quan Cầu Vàng nổi tiếng và còn rất nhiều thứ chờ bạn tới trải nghiệm.",
     thoiGian: "Mở từ 08:00 Đến 22:00",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Ba_Na_Hills_1.jpeg?alt=media&token=3568614c-ab1f-4916-87ac-3282f4050e5e",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Ba_Na_Hills_2.jpeg?alt=media&token=4bb7aca8-a188-4957-8114-c3c64f273018",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Ba_Na_Hills_3.jpeg?alt=media&token=e57a209a-fd2d-404b-9061-6163397f773b",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBa_Na_Hills_1.jpeg?alt=media&token=b2e863f8-0d76-4de8-a5ec-6e96fbd81810",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBa_Na_Hills_2.jpeg?alt=media&token=25045d1f-4aee-44a1-ac3d-3a5f7a3540ef",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBa_Na_Hills_3.jpeg?alt=media&token=6eda03c2-4155-4a97-957c-6c570b5fdb00",
     ],
   },
   {
@@ -359,9 +359,9 @@ export default du_lieu = [
       "Bên cạnh tắm biển, khách du lịch có thể “cháy’’ hết mình với những trò chơi thú vị như dù lượn, lướt ván, mô tô nước, ca nô kéo phao,... Ngoài ra ẩm thực ở đây cũng là 1 phần nổi bật thu hút khách du lịch.",
     thoiGian: "Hoạt động cả ngày",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Bai_bien_My_Khe_1.jpeg?alt=media&token=80c5b6e6-aed3-4ad5-8c07-c39559faff51",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Bai_bien_My_Khe_2.jpeg?alt=media&token=45c0ae9d-20af-4375-84bd-ea20793f663a",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Bai_bien_My_Khe_3.jpeg?alt=media&token=b0aa65e7-c0d2-4384-92cc-64104547d48c",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBai_bien_My_Khe_1.jpeg?alt=media&token=bc171091-9cb5-4bbd-9103-59a371ecdcff",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBai_bien_My_Khe_2.jpeg?alt=media&token=803d8c9c-09a5-46e3-9339-edc1e9060ee2",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FBai_bien_My_Khe_3.jpeg?alt=media&token=1639c9c1-efd4-4cae-87af-f576569d3b09",
     ],
   },
   {
@@ -378,9 +378,9 @@ export default du_lieu = [
     thoiGian:
       "Mở từ Thứ 2 - Thứ 6 (15:00 – 22:00); Thứ 7 - Chủ nhật (9:00 - 22:00)",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Asian_Park_1.png?alt=media&token=5bd3629f-9066-43fd-a3ef-85dfbff35a4a",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Asian_Park_2.jpeg?alt=media&token=0e70d7da-702b-47de-9f3a-e66ced2d7712",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Asian_Park_3.jpeg?alt=media&token=2e0972c6-3d49-4c87-881e-2d3614169fc7",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FAsian_Park_1.png?alt=media&token=4418f593-b91b-45a0-bd1b-dbebc86f15d6",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FAsian_Park_2.jpeg?alt=media&token=4e4b9afd-1252-40c1-b529-7e7f8ca58e1c",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FAsian_Park_3.jpeg?alt=media&token=55cb4ee7-d0b5-4e61-9273-215b762e991d",
     ],
   },
   {
@@ -395,9 +395,9 @@ export default du_lieu = [
       "Là địa điểm du lịch tín ngưỡng tâm linh, thăm quan tượng Quan Âm cao nhất VN, Tháp Xá Lợi, sở hữu cảnh biển và thành phố rất đẹp",
     thoiGian: "Giờ mở cửa: 6:00 – 21:00 ",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Chua_Linh_Ung_1.jpeg?alt=media&token=4511bf45-fbf1-4871-86b3-f6b74097760f",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Chua_Linh_Ung_2.jpeg?alt=media&token=dc9f8bb1-f8cc-401f-8be7-0ec9b4871da2",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Chua_Linh_Ung_3.jpeg?alt=media&token=3109e674-aaa4-47da-b649-2a01a9efcb8b",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FChua_Linh_Ung_1.jpeg?alt=media&token=f3afb9ea-46a8-460e-b45a-6b52233f49dc",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FChua_Linh_Ung_2.jpeg?alt=media&token=1e6d2e7f-781c-4f40-ad36-65b4991b3384",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FChua_Linh_Ung_3.jpeg?alt=media&token=67b452d4-8c3a-4fe4-b1d1-e9c90f0c6322",
     ],
   },
   {
@@ -414,9 +414,9 @@ export default du_lieu = [
       "Helio hiện là trung tâm giải trí phức hợp đa dịch vụ khá nổi tiếng ở Đà Nẵng. Ở đây nổi tiếng với dịch vụ giải trí, các buổi biểu diễn âm nhạc đặc sắc, khu mua sắm sầm uất, và nổi bật là ẩm thực ở đây.",
     thoiGian: "Chợ đêm Helio Đà Nẵng hoạt động từ 17h30 đến 22h30 mỗi ngày",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Helio_Center_1.jpeg?alt=media&token=7552d275-814a-4ec8-9b3d-3238aaee3570",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Helio_Center_2.jpeg?alt=media&token=4669e7e6-1706-4946-af4e-21ea107e6e68",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Helio_Center_3.jpeg?alt=media&token=56e63735-fb69-42d4-9adb-9cf0e1021409",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FHelio_Center_1.jpeg?alt=media&token=0f583809-7411-49ca-96c3-c5a6ce867e44",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FHelio_Center_2.jpeg?alt=media&token=3a644c92-8710-4471-8737-ccdada64bdcb",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FHelio_Center_3.jpeg?alt=media&token=6b1dd091-da8a-46dc-bd78-ecc7155d50b6",
     ],
   },
   {
@@ -433,9 +433,9 @@ export default du_lieu = [
       "Đến đây bạn có thể trải nhiệm đa dạng các loại hình tắm khoáng, thăm quan Đền Thần Tài, công viên khủng long, tượng Di Lặc – biểu tượng của niềm hạnh phúc viên mãn… ngoài trải nghiệm những dịch vụ sang chảnh, bạn có thể lưu trú trong khu nghỉ dưỡng chuẩn 4 sao quốc tế, thưởng thức ẩm thực độc đáo với hàng trăm món Á Âu",
     thoiGian: "Mở từ 8h sáng tới 21h tối",
     hinhAnh: [
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Suoi_khoang_nui_Than_Tai_1.jpeg?alt=media&token=e61d04f8-e855-4a50-b3ca-93a600db818f",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Suoi_khoang_nui_Than_Tai_2.jpeg?alt=media&token=82b0c528-63fa-47e1-b4c8-72bd354109dd",
-      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/Suoi_khoang_nui_Than_Tai_3.jpeg?alt=media&token=a0926441-1af6-4341-8ad9-9603577832b2",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSuoi_khoang_nui_Than_Tai_1.jpeg?alt=media&token=dc421838-6b64-4e31-905a-ca71a54534b9",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSuoi_khoang_nui_Than_Tai_2.jpeg?alt=media&token=64b4232d-4821-406f-b30f-07d0de220eed",
+      "https://firebasestorage.googleapis.com/v0/b/traveldn-b44ce.appspot.com/o/locations%2FSuoi_khoang_nui_Than_Tai_3.jpeg?alt=media&token=1f281c89-939c-48e2-b1dd-618e383da8f7",
     ],
   },
 ];

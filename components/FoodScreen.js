@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { View, Text, FlatList, TextInput } from "react-native";
-import Item from "./Item";
-import du_lieu from "../database/data/data.firebase.js";
+import Item from "./ItemFood";
+import data_food from "../database/data/data.foods.firebase.js";
 
 export default function FoodScreen() {
 
@@ -12,8 +12,8 @@ export default function FoodScreen() {
   const [searchQuery, setsearchQuery] = useState("");
 
   useEffect(() => {
-    setFullData(du_lieu);
-    setSearchData(du_lieu);
+    setFullData(data_food);
+    setSearchData(data_food);
   },[]);
 
   const handeSearch = (text) => {
@@ -70,10 +70,13 @@ export default function FoodScreen() {
         Món ngon Đà thành
       </Text>
       <FlatList
+        horizontal={false}
+        columnWrapperStyle = {{flexWrap: 'wrap', flex:1, marginTop: 5}}
         showsVerticalScrollIndicator={false}
         data={searchData}
         renderItem={({ item }) => <Item data={item} />}
         keyExtractor={(item) => item.id}
+        numColumns={2}
       />
 
     </View>

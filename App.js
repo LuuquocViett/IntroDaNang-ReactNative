@@ -1,10 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
-import Splash from './components/SplashScreen';
-import Item from './components/Item';
-import ListScreen from './components/ListScreen';
+import {  StyleSheet } from 'react-native';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
-import Detail from './components/Detail';
 import MainScreen from './components/MainScreen';
 
 export default function App() {

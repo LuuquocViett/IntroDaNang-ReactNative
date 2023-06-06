@@ -9,9 +9,10 @@ import {
   Animated,
 } from "react-native";
 import Swiper from "react-native-swiper";
+import Item from "./ItemFood";
 
 
-export default function Detail({ route }) {
+export default function DetailFood({ route }) {
   const { data } = route.params;
   const scrollX = useRef(new Animated.Value(0)).current;
   return (
@@ -66,6 +67,22 @@ export default function Detail({ route }) {
           </Text>{" "}
           {data.moTa}
         </Text>
+        <View>
+          <Text
+            style={{
+              fontWeight: "bold",
+              fontSize: 18,
+            }}
+          >
+            Nơi bán:
+          </Text>
+          {data.noiBan.map((item,index) => (
+            <Text style={{
+                fontSize: 18,
+                marginBottom: 5,
+              }} key={index}>* {item}</Text>
+          ))}
+        </View>
         <Text
           style={{
             fontSize: 18,
@@ -77,70 +94,11 @@ export default function Detail({ route }) {
               fontWeight: "bold",
             }}
           >
-            Vị trí:
+            Giá:
           </Text>{" "}
-          {data.viTri}
+          {data.gia}
         </Text>
-        <Text
-          style={{
-            fontSize: 18,
-            marginBottom: 5,
-          }}
-        >
-          <Text
-            style={{
-              fontWeight: "bold",
-            }}
-          >
-            Trải nghiệm:
-          </Text>{" "}
-          {data.traiNghiem}
-        </Text>
-        <Text
-          style={{
-            fontSize: 18,
-            marginBottom: 5,
-          }}
-        >
-          <Text
-            style={{
-              fontWeight: "bold",
-            }}
-          >
-            Di chuyển:
-          </Text>{" "}
-          {data.diChuyen}
-        </Text>
-        <Text
-          style={{
-            fontSize: 18,
-            marginBottom: 5,
-          }}
-        >
-          <Text
-            style={{
-              fontWeight: "bold",
-            }}
-          >
-            Thời gian mở cửa:
-          </Text>{" "}
-          {data.thoiGian}
-        </Text>
-        <Text
-          style={{
-            fontSize: 18,
-            marginBottom: 5,
-          }}
-        >
-          <Text
-            style={{
-              fontWeight: "bold",
-            }}
-          >
-            Giá vé:
-          </Text>{" "}
-          {data.giaVe}
-        </Text>
+    
       </ScrollView>
     </View>
   );

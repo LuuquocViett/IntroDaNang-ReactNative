@@ -8,6 +8,7 @@ import Detail from "./Detail";
 import Splash from "./SplashScreen";
 import ListScreen from "./ListScreen";
 import FoodScreen from "./FoodScreen";
+import DetailFood from "./DetailFood";
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
 
@@ -23,7 +24,7 @@ const Foods = () => {
   return (
     <Stack.Navigator screenOptions={{ headerShown: false }}>
       <Stack.Screen name="Food" component={FoodScreen} />
-      <Stack.Screen name="Detail" component={Detail} />
+      <Stack.Screen name="DetailFood" component={DetailFood} />
     </Stack.Navigator>
   );
 };
@@ -64,7 +65,7 @@ export default function MainScreen() {
           }}
         />
         <Tab.Screen
-          name="Food"
+          name="Foods"
           component={Foods}
           options={{
             tabBarIcon: ({ focused }) => (

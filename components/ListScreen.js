@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { View, Text, FlatList, TextInput } from "react-native";
-import Item from "./Item";
-import du_lieu from "../database/data/data.firebase.js";
+import Item from "./ItemLocation";
+import du_lieu from "../database/data/data.locations.firebase.js";
 
 export default function ListScreen() {
   const [error, setError] = useState([]);
